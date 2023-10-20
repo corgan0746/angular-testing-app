@@ -1,27 +1,38 @@
 # HeroesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+#! Please read and check the compability with PrimeNg and Prime Flex if used.
 
-## Development server
+Topics:
+- CRUD (Create, Read, Update, Delete)
+- Pipes (pure and not-pure)
+- Snacks
+- Dialogs
+- Manual Service Injection
+- Protected Routes
+- Private Routes
+- Public Routes
+- Authentication Service
+- Guards --> Now is recommended to use Function Guards
+- Can Activate
+- Can Match
+- Maintain User Session
+#
+- Angular Material
+- Interfaces and types
+- Personalized Pipes
+- .env variables
+- Angular Material Autocomplete
+- HTTP Requests
+- JSON-Server
+- Prime Flex --> Careful with Angular compatibility
+- Child Routes
+- Main Routes
+- Lazyload
+- Many styles within the SPA
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Dev
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Clone Project
+2. Execute ```npm install```
+3. Run Backend ```npm run backend```
+4. Execute the app ```ng serve```
